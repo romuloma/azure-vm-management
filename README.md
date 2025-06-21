@@ -14,8 +14,6 @@ Este repositório contém tutoriais, exemplos e automações para gerenciar **M�
 
 | Pasta        | Descrição                                                |
 |--------------|----------------------------------------------------------|
-| `images/`    | Prints usados nos tutoriais                              |
-| `scripts/`   | Scripts Bash e PowerShell para automatizar tarefas       |
 | `docs/`      | Guias detalhados de cada funcionalidade                  |
 
 ## 🧭 Tutoriais Disponíveis

@@ -21,16 +21,16 @@ Este repositório contém tutoriais, exemplos e automações para gerenciar **M�
 ## 🧭 Tutoriais Disponíveis
 
 ### 1. [Criar uma VM via Portal](docs/guia-criacao.md)
-📸 ![Exemplo](images/01-criar-vm.png)
+
 
 ### 2. [Acessar VM via SSH ou RDP](docs/guia-acesso.md)
-📸 ![Exemplo](images/03-ssh.png)
+
 
 ### 3. [Monitorar e aplicar alertas](docs/guia-monitoramento.md)
-📸 ![Exemplo](images/04-monitoramento.png)
+
 
 ### 4. [Automatizar desligamento/ligamento de VMs](docs/guia-automatizacao.md)
-📸 ![Exemplo](images/05-automatizacao.png)
+
 
 ## 🔧 Requisitos
 
